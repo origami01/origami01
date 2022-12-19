@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @origami01
-- 👀 I’m interested in solidity and python for data science.
-- 🌱 I’m currently learning solidity.
-- 💞️ I’m looking to collaborate on different web3 projects.
+- 👋 Hi, I’m Obenamukama Dickson 
+- 👀 I’m interested in  software development 
 - 📫 How to reach me ... dm me on twitter @dixono12
 - 
 
